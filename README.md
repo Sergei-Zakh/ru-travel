@@ -1,5 +1,5 @@
-# Проект: Путешествие по России v1.3
-## https://sergei-zakh.github.io/ru-travel/
+# Проект: Путешествие по России v1.31
+## https://sergei-zakh.github.io/russian-travel/
 
 ### Обзор
 * Использование теоретических знаний
