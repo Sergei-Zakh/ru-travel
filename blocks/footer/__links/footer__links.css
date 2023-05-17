@@ -9,5 +9,6 @@
       flex-direction: column;
       max-width: 186px;
       margin-left: 16px;
+      gap: 32px;
     }
   }

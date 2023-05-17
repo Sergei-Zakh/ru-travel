@@ -5,6 +5,7 @@
     background-image: url(../../../images/cover-trains.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     object-fit: cover;
     display: flex;
     flex-direction: column;
@@ -19,6 +20,7 @@
   content: "";
   position: absolute;
   opacity: .3;
+  transition: opacity .8s;
   background: #2a2c2f;
   top: 0;
   right: 0;
@@ -28,8 +30,6 @@
 
 .cover__link:hover::before {
     opacity: .8;
-    background: #2a2c2f;
-    transition: opacity .8s;
 }   
 
 @media screen and (max-width: 1279px) {
