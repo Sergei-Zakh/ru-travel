@@ -3,4 +3,13 @@
     object-position: center;
     max-width: 100%;
     display: block;
+    
+}
+
+
+
+@media screen and (max-width: 1020px) {
+    .photo-grid__item {
+        aspect-ratio: 1.3;
+    }
 }

@@ -3,6 +3,7 @@
     width: 100%;
     object-fit: cover;
     margin-top: 64px;
+    
 }
 
 
@@ -12,6 +13,12 @@
     }
   }
   
+  @media screen and (max-width: 769px) {
+    .lead__image {
+      aspect-ratio: 1.56;
+    }
+  }
+
   @media screen and (max-width: 767px) {
     .lead__image {
       margin-top: 40px;

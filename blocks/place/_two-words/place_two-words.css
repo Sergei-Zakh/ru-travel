@@ -10,6 +10,6 @@
 
 @media screen and (max-width: 1023px) {
   .place_two-words {
-    grid-template-rows: 92px auto;  /*340px*/
+    grid-template-rows: auto;
   }
 }
