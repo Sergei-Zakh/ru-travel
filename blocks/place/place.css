@@ -23,6 +23,7 @@
     grid-template-columns: 340px 352px;
     grid-gap: 48px 28px;
     margin-bottom: 80px;
+    margin-top: -8px;
   }
 
   .place:last-child {
@@ -34,7 +35,7 @@
   .place {
     display: flex;
     flex-direction: column;
-    margin-bottom: 48px;
+    margin-bottom: 57px;
     grid-gap: 0;
   }
 }

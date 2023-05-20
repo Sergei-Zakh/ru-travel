@@ -10,6 +10,6 @@
 
 @media screen and (max-width: 1020px) {
     .photo-grid__item {
-        aspect-ratio: 1.3;
+        aspect-ratio: 1.33;
     }
 }

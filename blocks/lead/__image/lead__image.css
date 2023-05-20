@@ -13,9 +13,9 @@
     }
   }
   
-  @media screen and (max-width: 769px) {
+ @media screen and (max-width: 769px) {
     .lead__image {
-      aspect-ratio: 1.56;
+      aspect-ratio: 1.6;
     }
   }
 
